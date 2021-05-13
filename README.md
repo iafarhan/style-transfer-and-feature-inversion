@@ -1,4 +1,4 @@
-# style-transfer-cnns
+# Style Transfer using Convolutional neural networks
 
 We implement the style transfer technique from "Image Style Transfer Using Convolutional Neural Networks" (Gatys et al., CVPR 2015).
 
